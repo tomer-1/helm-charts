@@ -3221,7 +3221,7 @@ thanosRuler:
     #     resources:
     #       requests:
     #         storage: 50Gi
-    #   selector: {}
+    #     selector: {}
 
     ## AlertmanagerConfig define configuration for connecting to alertmanager.
     ## Only available with Thanos v0.10.0 and higher. Maps to the alertmanagers.config Thanos Ruler arg.
